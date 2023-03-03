@@ -2,3 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
+title: [Carlos Aguirre's ePortfolio SNHU CS-499]
+description: [This ePortfolio combines the knowledge and skills I've developed over the course of my years of study in Southern New Hampshire University's Computer Science Bachelors degree . ]

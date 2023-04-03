@@ -8,3 +8,7 @@ A software engineer portfolio is among the most crucial ways for developers to s
 This portfolio will give employers actual examples of the tasks i have completed, proving to them that I am capable of the tasks specified on my resume.
 
 ## Table of Contents 
+
+[Professional Self-assessment](./another-page.html).
+[Eportfolio Selection and Refinement Plan](./another-page.html).
+[Code Reviews](./another-page.html).

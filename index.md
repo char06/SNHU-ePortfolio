@@ -9,6 +9,6 @@ This portfolio will give employers actual examples of the tasks i have completed
 
 ## Table of Contents 
 
-[Professional Self-assessment](./another-page.html).
-[Eportfolio Selection and Refinement Plan](./another-page.html).
-[Code Reviews](./another-page.html).
+[Professional Self-assessment](./another-page.html).<br/>
+[Eportfolio Selection and Refinement Plan](./another-page.html).<br/>
+[Code Reviews](./another-page.html).<br/>

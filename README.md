@@ -18,7 +18,7 @@ The selected artifacts have been improved and made available as program practice
 
 ### Self-Reflections
 
-[Journal: Self-Introduction](CS499/Journal Self Introduction.pdf "Journal: Self-Introduction")
+[Journal: Self-Introduction](CS499/Journal-Self-Introduction.pdf "Journal: Self-Introduction")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
 

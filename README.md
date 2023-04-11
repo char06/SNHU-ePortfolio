@@ -20,11 +20,11 @@ The selected artifacts have been improved and made available as program practice
 
 [Journal: Self-Introduction](CS499/Journal-Self-Introduction.pdf "Journal: Self-Introduction")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+This essay serves as a helpful self-introduction that connects the concepts learned in computer science class to my personal experiences. It means expressing unique viewpoints and interacting more fully and critically with the course subjects and materials. It also lists some new projects that I intend to work on as a software developer in the future.
 
 [Journal: Career Choice](CS499/ADDPaper.pdf "Journal: Career Choice")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+When I thought back on my decision to pursue a career in software development, I realized that while initially I thought it might be interesting to learn new technologies and use my creativity, the industry is now offering a career path with countless options, advancement, and, depending on how well you do, respectable income. This is what I decided to write about in this paper.
 
 [Journal: Capstone Reflection](CS499/ADDPaper.pdf "Journal: Capstone Reflection")
 

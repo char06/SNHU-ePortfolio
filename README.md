@@ -22,7 +22,7 @@ The selected artifacts have been improved and made available as program practice
 
 This essay serves as a helpful self-introduction that connects the concepts learned in computer science class to my personal experiences. It means expressing unique viewpoints and interacting more fully and critically with the course subjects and materials. It also lists some new projects that I intend to work on as a software developer in the future.
 
-[Journal: Career Choice](CS499/ADDPaper.pdf "Journal: Career Choice")
+[Journal: Career Choice](CS499/Journal-Career-Choice-and-Artifact-Update.pdf "Journal: Career Choice")
 
 When I thought back on my decision to pursue a career in software development, I realized that while initially I thought it might be interesting to learn new technologies and use my creativity, the industry is now offering a career path with countless options, advancement, and, depending on how well you do, respectable income. This is what I decided to write about in this paper.
 

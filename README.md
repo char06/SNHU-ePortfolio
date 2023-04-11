@@ -57,4 +57,4 @@ Salvare Search for Rescue App is an artifact.
 
 ### Code Reviews
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+For any project, code reviews are essential. The code project states that "code review, commonly known as peer review, is systematic analysis of computer source code. It looks to find and fix faults that were overlooked during the first development stage with the intention of improving both the general quality of software and the developers' skills. I like taking part in code reviews because I get to give and receive feedback in addition to seeing how many people tackle the same topic. Getting feedback on my code has helped me become a better software engineer by pointing out common mistakes and weaknesses.

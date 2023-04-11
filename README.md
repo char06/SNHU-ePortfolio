@@ -46,7 +46,7 @@ This paper shows the initial improvement made for the first category. As part of
 
 This document details the initial improvement made for the second category, for which I chose to use an artifact from the CS-360 Mobile Architect & Programming course as part of my final project. The plan I develop to improve the application will be detailed in the paper.
 
-[Algorithms and data structures](CS499/ADDPaper.pdf)
+[Algorithms and data structures](CS499/Algorithms-and-Data-Structure.pdf)
 
 ### Databases Enhancement
 

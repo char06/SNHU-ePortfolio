@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec 
 
 This is the paper that indicated the plan I used to finish my e-portfolio and demonstrate how my experience at Southern New Hampshire University has helped me progress as a software developer. The artifacts I've selected fall into the three categories of software design and engineering, data structures & algorithms, and databases. 
 
-[Eportfolio Selection and Refinement Plan](CS499/ADDPaper.pdf)
+[Eportfolio Selection and Refinement Plan](CS499/ePortfolio-Selection-and-Refinement-Plan.pdf)
 
 ### Code Reviews
 

@@ -53,7 +53,7 @@ This document details the initial improvement made for the second category, for 
 This document, which is a component of my final project, shows the initial improvement that has been made for this third category. I made the decision to use an artifact that had been finished for CS-340 Client/Server Development.
 Salvare Search for Rescue App is an artifact.
 
-[Databases](CS499/ADDPaper.pdf)
+[Databases](CS499/databases.pdf)
 
 ### Code Reviews
 

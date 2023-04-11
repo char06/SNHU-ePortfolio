@@ -44,7 +44,7 @@ This paper shows the initial improvement made for the first category. As part of
 
 ### Algorithms and Data Structures Enhancement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+This document details the initial improvement made for the second category, for which I chose to use an artifact from the CS-360 Mobile Architect & Programming course as part of my final project. The plan I develop to improve the application will be detailed in the paper.
 
 [Algorithms and data structures](CS499/ADDPaper.pdf)
 

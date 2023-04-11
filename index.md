@@ -1,3 +1,4 @@
+[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge&logo=gmail)](mailto:carlosaguirre086@gmail.com "I can help you!")&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/char06/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Update")
 
 ## Welcome 
 
@@ -9,6 +10,4 @@ This portfolio will give employers actual examples of the tasks i have completed
 
 ## Table of Contents 
 
-[Professional Self-assessment](./another-page.html).<br/>
-[Eportfolio Selection and Refinement Plan](./another-page.html).<br/>
-[Code Reviews](./another-page.html).<br/>
+[Link to another page](./another-page.html).

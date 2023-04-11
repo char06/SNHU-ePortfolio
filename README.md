@@ -32,13 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec 
 
 ### Eportfolio Selection and Refinement Plan
 
-This is the paper that indicated the plan I used to finish my e-portfolio and demonstrate how my experience at Southern New Hampshire University has helped me progress as a software developer. The artifacts I've selected fall into the three categories of software design and engineering, data structures & algorithms, and databases. 
+This is the document that indicated the plan I used to finish my e-portfolio and demonstrate how my experience at Southern New Hampshire University has helped me progress as a software developer. The artifacts I've selected fall into the three categories of software design and engineering, data structures & algorithms, and databases. 
 
 [Eportfolio Selection and Refinement Plan](CS499/ePortfolio-Selection-and-Refinement-Plan.pdf)
 
 ### Software Design and Engineering Enhancement
 
-This paper shows the initial improvement made for the first category. As part of my final project, I chose to use an artifact produced for the CS-360 Mobile Architect & Programming course.
+This document shows the initial improvement made for the first category. As part of my final project, I chose to use an artifact produced for the CS-360 Mobile Architect & Programming course.
 
 [Software design and engineering](CS499/Enhancement-One-Software-Design-and-Engineering.pdf)
 
@@ -50,7 +50,8 @@ This document details the initial improvement made for the second category, for 
 
 ### Databases Enhancement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+This document, which is a component of my final project, shows the initial improvement that has been made for this third category. I made the decision to use an artifact that had been finished for CS-340 Client/Server Development.
+Salvare Search for Rescue App is an artifact.
 
 [Databases](CS499/ADDPaper.pdf)
 

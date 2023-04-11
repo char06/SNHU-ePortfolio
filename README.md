@@ -40,7 +40,7 @@ This is the paper that indicated the plan I used to finish my e-portfolio and 
 
 This paper shows the initial improvement made for the first category. As part of my final project, I chose to use an artifact produced for the CS-360 Mobile Architect & Programming course.
 
-[Software design and engineering](CS499/ADDPaper.pdf)
+[Software design and engineering](CS499/Enhancement-One-Software-Design-and-Engineering.pdf)
 
 ### Algorithms and Data Structures Enhancement
 

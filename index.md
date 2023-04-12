@@ -11,8 +11,7 @@ This portfolio will give employers actual examples of the tasks i have completed
 ## Table of Contents 
 
 
-- [Self-Introduction](./another-page.html)
-  - [Professional Self-assessment](./another-page.html)
+- [Professional Self-assessment]((#self-assessment "Professional Self-Assessment")
   - [Preparing for the future](./another-page.html)
   
 - [Eportfolio Selection](./another-page.html)
@@ -24,6 +23,18 @@ This portfolio will give employers actual examples of the tasks i have completed
   - [Software design and engineering Code Review](./another-page.html)
   - [Algorithms and Data structures Code Review](./another-page.html)
   - [Databases Code Review](./another-page.html)
+
+
+As a software engineer, completing the Computer Science program and developing my ePortfolio has been an incredibly valuable experience that has helped shape my professional goals and values, as well as showcased my strengths in the field of computer science. Throughout my coursework, I have gained a deep understanding of important concepts such as collaborating in a team environment, communicating effectively to senior management, working with data structures and algorithms, software engineering, database management, and security.
+
+One specific example of how my coursework has helped me showcase my strengths in these areas is through team projects. In these projects, I have learned how to collaborate effectively with team members, delegate tasks, and communicate clearly and concisely. I have also gained experience working with various data structures and algorithms, which has helped me improve my problem-solving skills and programming ability. In addition, my coursework has exposed me to important software engineering principles such as version control, code review, and testing, which have helped me become a more disciplined and efficient developer.
+
+Furthermore, my ePortfolio includes artifacts that demonstrate my expertise and experience in these areas. For instance, my project on transferring one project from one language to other,  showcases my ability to work with data structures and algorithms to create interactive and insightful web applications. 
+
+My project on web application development highlights my proficiency in software engineering principles such as version control and testing, as well as my ability to collaborate effectively in a team environment. My project on database management showcases my understanding of important database concepts such as normalization and indexing, as well as my ability to design and implement complex database schemas.
+
+Overall, my ePortfolio showcases the full range of my computer science talents and abilities and demonstrates my proficiency in key areas such as collaborating in a team environment, communicating effectively, working with data structures and algorithms, software engineering, database management, and security. As a result, I am confident that my skills and experience make me a strong candidate for employment in the computer science field, and I look forward to pursuing opportunities to apply my knowledge and expertise in a professional setting.
+
 
 
 

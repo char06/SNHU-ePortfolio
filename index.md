@@ -24,6 +24,7 @@ This portfolio will give employers actual examples of the tasks i have completed
   - [Algorithms and Data structures Code Review](./another-page.html)
   - [Databases Code Review](./another-page.html)
 
+<img id="self-assessment" src="assests/self-assessment.jpeg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
 As a software engineer, completing the Computer Science program and developing my ePortfolio has been an incredibly valuable experience that has helped shape my professional goals and values, as well as showcased my strengths in the field of computer science. Throughout my coursework, I have gained a deep understanding of important concepts such as collaborating in a team environment, communicating effectively to senior management, working with data structures and algorithms, software engineering, database management, and security.
 

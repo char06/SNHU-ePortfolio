@@ -26,15 +26,25 @@ This portfolio will give employers actual examples of the tasks i have completed
 
 <img id="self-assessment" src="assests/self-assessment.jpeg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
-As a software engineer, completing the Computer Science program and developing my ePortfolio has been an incredibly valuable experience that has helped shape my professional goals and values, as well as showcased my strengths in the field of computer science. Throughout my coursework, I have gained a deep understanding of important concepts such as collaborating in a team environment, communicating effectively to senior management, working with data structures and algorithms, software engineering, database management, and security.
+As a software engineer, completing the Computer Science program and developing my ePortfolio has been an incredibly valuable experience that has helped shape my professional goals and values, as well as showcased my strengths in the field of computer science. As a software engineering student, I have gained valuable insights into various aspects of software development, including working in a team environment, communicating effectively with senior management, understanding data structures and algorithms, software engineering principles, database management, and security.
 
-One specific example of how my coursework has helped me showcase my strengths in these areas is through team projects. In these projects, I have learned how to collaborate effectively with team members, delegate tasks, and communicate clearly and concisely. I have also gained experience working with various data structures and algorithms, which has helped me improve my problem-solving skills and programming ability. In addition, my coursework has exposed me to important software engineering principles such as version control, code review, and testing, which have helped me become a more disciplined and efficient developer.
+Working in a team environment has taught me the importance of collaboration, effective communication, and time management. I have learned that a team can accomplish much more than an individual, and everyone's contributions are valuable. Clear communication and collaboration are essential for achieving common goals, and managing deadlines and milestones ensures timely delivery of projects.
 
-Furthermore, my ePortfolio includes artifacts that demonstrate my expertise and experience in these areas. For instance, my project on transferring one project from one language to other,  showcases my ability to work with data structures and algorithms to create interactive and insightful web applications. 
+Communicating effectively with senior management is crucial to the success of any project. I have learned that senior management needs to be informed about the progress, challenges, and risks associated with a project. Providing regular updates, discussing technical details in non-technical terms, and highlighting the business value of the project are some of the key elements of effective communication with senior management.
 
-My project on web application development highlights my proficiency in software engineering principles such as version control and testing, as well as my ability to collaborate effectively in a team environment. My project on database management showcases my understanding of important database concepts such as normalization and indexing, as well as my ability to design and implement complex database schemas.
+Understanding data structures and algorithms is a fundamental skill for software engineers. I have learned how to use different data structures and algorithms to optimize code performance, reduce complexity, and improve scalability. I have also learned how to evaluate the time and space complexity of different algorithms to choose the best one for a particular task.
 
-Overall, my ePortfolio showcases the full range of my computer science talents and abilities and demonstrates my proficiency in key areas such as collaborating in a team environment, communicating effectively, working with data structures and algorithms, software engineering, database management, and security. As a result, I am confident that my skills and experience make me a strong candidate for employment in the computer science field, and I look forward to pursuing opportunities to apply my knowledge and expertise in a professional setting.
+Software engineering principles such as modular design, code reuse, testing, and documentation are critical for building reliable and maintainable software. I have learned how to apply these principles in my projects to ensure that the code is easy to read, modify, and maintain. I have also learned how to write unit tests to verify the functionality of the code and catch bugs early in the development cycle.
+
+Database management is an essential aspect of software development. I have learned how to design and implement databases, write SQL queries, and manage data efficiently. I have also learned about different types of databases such as relational, NoSQL, and graph databases and their use cases.
+
+Finally, I have learned about the importance of security in software development. I have learned how to identify and mitigate common security risks such as injection attacks, cross-site scripting, and data breaches. I have also learned about best practices for secure coding, secure authentication, and access control.
+
+Overall, my experience as a software engineering student has taught me the importance of teamwork, effective communication, and technical skills such as data structures and algorithms, software engineering principles, database management, and security. These skills will enable me to build reliable and scalable software solutions that meet the needs of businesses and users.
+
+
+
+
 
 
 

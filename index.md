@@ -16,7 +16,7 @@ This portfolio will give employers actual examples of the tasks i have completed
   
 - [ePortfolio selection and enhancements](#ePortfolio-selection "ePortfolio selection and enhacements")
   - [Software design and engineering](#software-design-and-engineering "Software design and engineering")
-  - [Algorithms and Data structures](./another-page.html)
+  - [Algorithms and Data structures](#algorithms-and-data-structures "Algorithms and Data structures")
   - [Databases](./another-page.html)
   
 - [Code Reviews](./another-page.html)
@@ -103,10 +103,6 @@ Software design is a critical aspect of the Software Development Life Cycle (SDL
        <p><em>Figure 3 - New Eventify look - CS499 Computer Science Capstone</em></p>
 </div>
 
-
-
-
-
 - Security: The web application should be designed with security in mind to prevent unauthorized access, data breaches, and other security threats. To improve security, the software design should include encryption of sensitive data, secure authentication mechanisms, and regular security audits.
 - Add user authentication and authorization: To make the application more secure, it could benefit from adding user authentication and authorization features. This could involve implementing a login system and role-based access control to ensure that users only have access to the appropriate parts of the appwireframe
 - Implement additional functionality using middleware: Node.js offers several middleware libraries that can be used to add functionality to the app. For example, body-parser can be used to parse incoming request bodies, and cookie-parser can be used to parse cookies.
@@ -123,6 +119,45 @@ In conclusion, the software design phase is a critical aspect of the SDLC that i
 </div>
 
 # Algorithms and Data structures 
+
+As part of my final project, I decided to work with an Android Studio and Java-based event tracking app, which was created during the CS-360 Mobile Architect & Programming course. The app provides CRUD actions for adding, removing, updating, and deleting events, and is connected to a database to simplify user account setup and data maintenance.
+
+To demonstrate my full-stack engineering skills, I have chosen to rebuild this application entirely using Javascript, a different programming language, for my ePortfolio. This project will showcase my proficiency in various Javascript data structures, such as arrays, objects, stacks, and queues. These data structures are important as they facilitate data retrieval and allow for efficient changes to be made to the data.
+
+## Enhancements 
+
+- Implement more advanced data structures like linked lists and trees to optimize data storage and retrieval.
+- Utilize object-oriented programming principles to enhance code organization and maintainability.
+- Added validation and error handling to improve the user experience and prevent unexpected behavior.
+- Implemented user authentication and authorization to ensure secure access to the application's features and data.
+- Used AJAX and other asynchronous techniques to improve the application's responsiveness and speed.
+- Incorporated third-party APIs to enhance the application's functionality and features.
+- Implemented automated testing to ensure that the application is functioning as expected and detect issues early on.
+- Integrate mobile responsiveness to ensure that the application is accessible on all devices.
+- Added additional features such as search functionality, filtering, and sorting to improve the user experience and make data retrieval more efficient.
+- I have implemented Flash messages to provide real-time feedback to the user. These messages appear on the screen for a short duration, giving users instant feedback on the actions they've taken.
+- I have incorporated Passport local mongoose plug-in to handle user authentication and authorization. This plugin provides secure password hashing and salting, preventing any potential security breaches. 
+- We have used Bootstrap client-side validation to improve the user experience and make the validation process more intuitive.
+- We have extensively referenced the documentation to ensure that we are adhering to best practices and industry standards.
+
+<div style="text-align: center;">
+       <img src="assests/Eventify-app.png" width="720px" title="CS-499">
+       <p><em>Figure 4 - Enhanced Eventify App - CS499 Computer Science Capstone</em></p>
+</div>
+
+Algorithms and data structures are essential concepts in computer science and software engineering. Algorithms provide a systematic approach to solving problems by providing a set of well-defined steps to accomplish a specific task. Data structures, on the other hand, are the fundamental building blocks of software applications that enable the storage, organization, and manipulation of data.
+
+Understanding algorithms and data structures is crucial for developing efficient, scalable, and reliable software applications. The proper selection and implementation of algorithms and data structures can significantly impact an application's performance, memory usage, and scalability.
+
+In addition, mastery of algorithms and data structures is essential for solving complex programming problems and creating innovative software solutions. A thorough knowledge of algorithms and data structures allows developers to approach complex programming problems with confidence and creativity, leading to the creation of elegant and efficient solutions.
+
+Overall, the importance of algorithms and data structures cannot be overstated in the field of software engineering. They are the foundation upon which modern software applications are built, and their mastery is critical for developing high-quality, efficient, and scalable software solutions.
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 # Databases 
 

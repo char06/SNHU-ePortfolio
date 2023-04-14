@@ -19,10 +19,10 @@ This portfolio will give employers actual examples of the tasks i have completed
   - [Algorithms and Data structures](#algorithms-and-data-structures "Algorithms and Data structures")
   - [Databases](#databases "Databases")
   
-- [Code Reviews](./another-page.html)
-  - [Software design and engineering Code Review](./another-page.html)
-  - [Algorithms and Data structures Code Review](./another-page.html)
-  - [Databases Code Review](./another-page.html)
+- [Code Reviews](#code-review "Code Reviews")
+  - [Software design and engineering Code Review](#software-design-and-engineering-code-review "Software design and engineering Code Review")
+  - [Algorithms and Data structures Code Review](#algorithms-and-data-structures-code-review "Algorithms and Data structures Code Review")
+  - [Databases Code Review](#databases-code-review "Databases Code Review")
 
 <img id="self-assessment" src="assests/self-assessment.jpeg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
@@ -202,7 +202,21 @@ In conclusion, building a database using MongoDB offers several advantages over 
     </a>
 </div>
 
+<img id="code-review" src="assests/code-review.png" alt="Code Reviews" />
 
+Code reviews are important because they help to improve the quality of code, identify potential bugs or vulnerabilities, increase knowledge sharing among team members, and ensure consistency and adherence to coding standards. Additionally, code reviews promote collaboration and constructive feedback among team members, leading to a stronger sense of ownership and accountability for the codebase. Overall, code reviews play a crucial role in building high-quality, reliable software products.
+
+# Software design and engineering Code Review
+
+# Algorithms and Data structures Code Review
+
+# Databases Code Review
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 
 

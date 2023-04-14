@@ -11,8 +11,8 @@ This portfolio will give employers actual examples of the tasks i have completed
 ## Table of Contents 
 
 
-- [Professional Self-assessment]((#self-assessment "Professional Self-Assessment")
-  - [Preparing for the future](./another-page.html)
+- [Professional Self-assessment](#self-assessment "Professional Self-Assessment")
+  - [Preparing for the future](#prepare "Preparing for the future")
   
 - [Eportfolio Selection](./another-page.html)
   - [Software design and engineering](./another-page.html)
@@ -60,6 +60,12 @@ Collaborate with others: Working with others on software development projects ca
 Practice good coding habits: Practicing good coding habits, such as writing clean and efficient code, documenting code, and testing thoroughly, is essential for success as a software engineer. It is important to develop these habits early on and make them a part of the software development process.
 
 By following these steps, I can prepare myself for a successful career as a software engineer. With a strong foundation in computer science, experience working on personal and collaborative projects, and exposure to the latest technologies and industry trends, I can become a valuable asset to any software engineering team.
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 
 

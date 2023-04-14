@@ -30,6 +30,11 @@ As a software engineer, completing the Computer Science program and developing m
 
 Working in a team environment has taught me the importance of collaboration, effective communication, and time management. I have learned that a team can accomplish much more than an individual, and everyone's contributions are valuable. Clear communication and collaboration are essential for achieving common goals, and managing deadlines and milestones ensures timely delivery of projects.
 
+<div style="text-align: center;">
+       <img src="assests/CS-310.jpeg" width="720px" title="CS-310">
+       <p><em>Figure 1 - Team Collaboration - CS310 Collaboration and Team Project</em></p>
+</div>
+
 Communicating effectively with senior management is crucial to the success of any project. I have learned that senior management needs to be informed about the progress, challenges, and risks associated with a project. Providing regular updates, discussing technical details in non-technical terms, and highlighting the business value of the project are some of the key elements of effective communication with senior management.
 
 Understanding data structures and algorithms is a fundamental skill for software engineers. I have learned how to use different data structures and algorithms to optimize code performance, reduce complexity, and improve scalability. I have also learned how to evaluate the time and space complexity of different algorithms to choose the best one for a particular task.
@@ -41,6 +46,20 @@ Database management is an essential aspect of software development. I have learn
 Finally, I have learned about the importance of security in software development. I have learned how to identify and mitigate common security risks such as injection attacks, cross-site scripting, and data breaches. I have also learned about best practices for secure coding, secure authentication, and access control.
 
 Overall, my experience as a software engineering student has taught me the importance of teamwork, effective communication, and technical skills such as data structures and algorithms, software engineering principles, database management, and security. These skills will enable me to build reliable and scalable software solutions that meet the needs of businesses and users.
+
+<img id="prepare" src="assests/prepare.png" alt="Prepare for the future" title="Prepare for the future" />
+
+To prepare for a future career as a software engineer: 
+
+Stay up to date with the latest technologies and industry trends: The field of software engineering is constantly evolving, and it is important to stay current with the latest developments in technology and industry trends. This can be done by attending conferences, workshops, and networking events, as well as reading blogs, articles, and books on software engineering.
+
+Work on personal projects: Building personal projects can help to develop skills and gain experience outside of the classroom. It also provides an opportunity to experiment with new technologies and learn from mistakes.
+
+Collaborate with others: Working with others on software development projects can help to develop teamwork and communication skills. Collaboration also provides an opportunity to learn from others and gain different perspectives on software development.
+
+Practice good coding habits: Practicing good coding habits, such as writing clean and efficient code, documenting code, and testing thoroughly, is essential for success as a software engineer. It is important to develop these habits early on and make them a part of the software development process.
+
+By following these steps, I can prepare myself for a successful career as a software engineer. With a strong foundation in computer science, experience working on personal and collaborative projects, and exposure to the latest technologies and industry trends, I can become a valuable asset to any software engineering team.
 
 
 

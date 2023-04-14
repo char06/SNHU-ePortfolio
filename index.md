@@ -14,8 +14,8 @@ This portfolio will give employers actual examples of the tasks i have completed
 - [Professional Self-assessment](#self-assessment "Professional Self-Assessment")
   - [Preparing for the future](#prepare "Preparing for the future")
   
-- [ePortfolio selection and enhacements](#ePortfolio-selection "ePortfolio selection and enhacements")
-  - [Software design and engineering](./another-page.html)
+- [ePortfolio selection and enhancements](#ePortfolio-selection "ePortfolio selection and enhacements")
+  - [Software design and engineering](#software-design-and-engineering "Software design and engineering")
   - [Algorithms and Data structures](./another-page.html)
   - [Databases](./another-page.html)
   
@@ -70,11 +70,61 @@ By following these steps, I can prepare myself for a successful career as a soft
 
 <img id="ePortfolio-selection" src="assests/ePortfolio-selection.png" alt="ePortfolio selection and enhacements" title="ePortfolio selection and enhacements" />
 
-## Software design and engineering 
+# Software design and engineering
 
-## Algorithms and Data structures 
+As part of my final project, I have chosen to work with an artifact that was completed during my CS-360 Mobile Architect & Programming course. The artifact is an Android Studio and Java-based event tracking app that allows users to perform CRUD actions for managing events. Additionally, the app is linked to a database to facilitate user account creation and data management.
 
-## Databases 
+I have included this artifact in my ePortfolio as it offers an opportunity for me to showcase my skills as a full-stack engineer. Specifically, I aim to rebuild the application using Javascript and demonstrate my abilities in front-end languages and frameworks such as HTML, CSS, and JavaScript, as well as back-end technologies and frameworks such as NodeJS, ExpressJS, Django, and Flask. Additionally, I have demonstrated proficiency in database management systems such as MySQL, SQL SERVER, PostgreSQL, and MongoDB, as well as version control and web hosting platforms.
+
+Overall, the artifact offers a great opportunity for me to showcase my abilities and highlight my growth as a skilled software engineer who can design, develop, test, and implement a range of software applications.
+
+<div style="text-align: center;">
+       <img src="assests/eventify .png" width="720px" title="CS-310">
+       <p><em>Figure 2 - Final look of Eventify App - CS360 Mobile Architect & Programming</em></p>
+</div>
+
+## Enhancements 
+
+Software design is a critical aspect of the Software Development Life Cycle (SDLC) that involves converting user requirements into a format that can be easily implemented using a programming language. The software design phase is the first step in the SDLC that shifts the focus from the problem domain to the solution domain. As a software engineer, my objective is to construct a web application using Javascript, HTML, and CSS, with the help of the open-source, cross-platform runtime environment Node.js. In this report, I present a list of enhancements to improve the software design of the web application based on the wireframe that I created.
+
+<div style="text-align: center;">
+       <img src="assests/wireframe.png" width="720px" title="CS-499">
+       <p><em>Figure 3 - Eventify Enhancement Wireframe - CS499 Computer Science Capstone</em></p>
+</div>
+
+- User-Centered Design: The wireframe provides a basic structure of the web application. To improve the software design, the user interface should be developed with a user-centered design approach that considers the user's needs, goals, and preferences. This can be achieved by conducting user research, creating user personas, and designing user flows that align with the user's journey.
+- Modularity: In software design, the system is viewed as a collection of parts or modules with distinct behaviors. To improve the modularity of the web application, the code should be organized into smaller, reusable modules that can be easily maintained and updated. 
+- Implement more CRUD functionality: Currently, the app only has basic CRUD functionality. To make it more robust, additional CRUD actions could be added, such as filtering and sorting data, searching, and pagination.
+- Improve software architecture: Although the essential features of the application have been developed, there may be room for improvement in terms of the overall structure of the app. It may be worth revisiting the architecture and identifying any areas that can be optimized or streamlined for better performance and scalability.
+- Enhance user interface: While the user interface's logic has been started, there is still much room for improvement to ensure that the application is intuitive and user-friendly. The user interface could be enhanced by adding more interactive elements, better visual design, and more responsive behavior.
+
+<div style="text-align: center;">
+       <img src="assests/newlook.png" width="720px" title="CS-499">
+       <p><em>Figure 3 - New Eventify look - CS499 Computer Science Capstone</em></p>
+</div>
+
+
+
+
+
+- Security: The web application should be designed with security in mind to prevent unauthorized access, data breaches, and other security threats. To improve security, the software design should include encryption of sensitive data, secure authentication mechanisms, and regular security audits.
+- Add user authentication and authorization: To make the application more secure, it could benefit from adding user authentication and authorization features. This could involve implementing a login system and role-based access control to ensure that users only have access to the appropriate parts of the appwireframe
+- Implement additional functionality using middleware: Node.js offers several middleware libraries that can be used to add functionality to the app. For example, body-parser can be used to parse incoming request bodies, and cookie-parser can be used to parse cookies.
+- Implement additional routes: As mentioned, Node.js doesn't handle routing natively, so using a web framework like Express can simplify the process. Consider adding additional routes to handle various HTTP actions and URL paths.
+- Improve static file serving: While Express does include a built-in static file server, there are additional options available that offer more advanced features, such as caching and compression.
+- Use a template engine: Express offers several popular template engines, such as Pug and EJS, that can be used to dynamically construct responses. Consider using a template engine to simplify the process of rendering dynamic content.
+
+In conclusion, the software design phase is a critical aspect of the SDLC that involves converting user requirements into a format that can be easily implemented using a programming language. To improve the software design of the web application, enhancements should be made to ensure a user-centered design, modularity, scalability, and security. By implementing these enhancements, the web application will be better equipped to meet user needs and ensure a high-quality user experience.
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
+# Algorithms and Data structures 
+
+# Databases 
 
 
 

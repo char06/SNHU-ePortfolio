@@ -17,7 +17,7 @@ This portfolio will give employers actual examples of the tasks i have completed
 - [ePortfolio selection and enhancements](#ePortfolio-selection "ePortfolio selection and enhacements")
   - [Software design and engineering](#software-design-and-engineering "Software design and engineering")
   - [Algorithms and Data structures](#algorithms-and-data-structures "Algorithms and Data structures")
-  - [Databases](./another-page.html)
+  - [Databases](#databases "Databases")
   
 - [Code Reviews](./another-page.html)
   - [Software design and engineering Code Review](./another-page.html)
@@ -100,7 +100,7 @@ Software design is a critical aspect of the Software Development Life Cycle (SDL
 
 <div style="text-align: center;">
        <img src="assests/newlook.png" width="720px" title="CS-499">
-       <p><em>Figure 3 - New Eventify look - CS499 Computer Science Capstone</em></p>
+       <p><em>Figure 4 - New Eventify look - CS499 Computer Science Capstone</em></p>
 </div>
 
 - Security: The web application should be designed with security in mind to prevent unauthorized access, data breaches, and other security threats. To improve security, the software design should include encryption of sensitive data, secure authentication mechanisms, and regular security audits.
@@ -137,12 +137,18 @@ To demonstrate my full-stack engineering skills, I have chosen to rebuild this a
 - Added additional features such as search functionality, filtering, and sorting to improve the user experience and make data retrieval more efficient.
 - I have implemented Flash messages to provide real-time feedback to the user. These messages appear on the screen for a short duration, giving users instant feedback on the actions they've taken.
 - I have incorporated Passport local mongoose plug-in to handle user authentication and authorization. This plugin provides secure password hashing and salting, preventing any potential security breaches. 
+
+<div style="text-align: center;">
+       <img src="assests/authentication.png" width="720px" title="CS-499">
+       <p><em>Figure 5 - Enhanced Eventify App - CS499 Computer Science Capstone</em></p>
+</div>
+
 - We have used Bootstrap client-side validation to improve the user experience and make the validation process more intuitive.
 - We have extensively referenced the documentation to ensure that we are adhering to best practices and industry standards.
 
 <div style="text-align: center;">
        <img src="assests/Eventify-app.png" width="720px" title="CS-499">
-       <p><em>Figure 4 - Enhanced Eventify App - CS499 Computer Science Capstone</em></p>
+       <p><em>Figure 6 - Enhanced Eventify App - CS499 Computer Science Capstone</em></p>
 </div>
 
 Algorithms and data structures are essential concepts in computer science and software engineering. Algorithms provide a systematic approach to solving problems by providing a set of well-defined steps to accomplish a specific task. Data structures, on the other hand, are the fundamental building blocks of software applications that enable the storage, organization, and manipulation of data.
@@ -161,9 +167,40 @@ Overall, the importance of algorithms and data structures cannot be overstated i
 
 # Databases 
 
+As part of my final project for the third category, I chose to work with the Salvare Search for Rescue App, which I developed during the CS-340 Client/Server Development course. The project involved creating an app for Grazioso Salvare, a company seeking a program that could identify and categorize available dogs using data accessible from animal shelters. The full-stack development of this application included a MongoDB database and a client-facing web application dashboard, which I developed as part of the Global Rain contract. The dashboard was designed to display data from the database in a user-friendly manner, requiring minimal training and reducing the likelihood of user errors.
+
+I am including this project in my portfolio to showcase my expertise in Python programming and database concepts. Although I faced some challenges during CS-349 that prevented me from submitting the course's initial milestones, I intend to start from scratch and develop a fully functional application that meets the client's requirements. Through this project, I will demonstrate my proficiency in Python and its integration with MongoDB.
 
 
+## Enhancements 
 
+- Improve the user interface: The current app uses Plotly and Dash to create a dashboard. The UI could be improved by fixing any issues with the existing dashboard or building a new one using a different framework. Additionally, the app could benefit from additional features such as data visualization tools, search functionality, and filters.
+
+<div style="text-align: center;">
+       <img src="assests/database .png" width="720px" title="CS-499">
+       <p><em>Figure 7 - Database creation - CS499 Computer Science Capstone</em></p>
+</div>
+
+- Add user authentication: The client has requested that the app include user authentication to ensure security. This could be achieved by creating a login system that requires users to enter their credentials before accessing the app's features.
+- Implement data validation: To ensure the accuracy and consistency of the data stored in the database, the app could include data validation checks. For example, the app could prevent users from entering invalid data or restrict certain types of input to specific fields.
+- Add support for additional database types: While MongoDB was chosen for this project, there are many other database types available. To increase the app's flexibility and appeal to a wider range of users, it could be enhanced to support additional database types such as MySQL or PostgreSQL.
+- Improve performance: As the app grows and more data is added to the database, it may become necessary to improve the app's performance. This could be achieved by optimizing queries, improving indexing, or implementing caching strategies.
+- Add support for transactions: While MongoDB supports transactions, it's not clear from the information provided whether they are currently being used in the app. Adding support for transactions could help ensure data consistency and integrity in the face of concurrent modifications.
+- Implement automated backups: To ensure data safety and reliability, the app could be enhanced to automatically back up the database on a regular basis. This could be achieved using tools like MongoDB Atlas or by implementing custom backup scripts.
+- Add data analytics capabilities: To provide users with more insights into their data, the app could be enhanced to include data analytics tools. For example, the app could be configured to automatically generate reports or charts based on the data stored in the database.
+
+<div style="text-align: center;">
+       <img src="assests/mongo.png" width="720px" title="CS-499">
+       <p><em>Figure 8 - MongoDB Atlas - CS499 Computer Science Capstone</em></p>
+</div>
+
+In conclusion, building a database using MongoDB offers several advantages over traditional SQL databases, including its adaptable schema, support for hierarchical data, and ability to scale quickly. With the help of Python libraries such as PyMongo and Pandas, the process of creating and managing a MongoDB database can be made simpler and more efficient. However, it is important to ensure proper user authentication and security measures are in place to protect sensitive data.
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 
 

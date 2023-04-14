@@ -68,6 +68,13 @@ By following these steps, I can prepare myself for a successful career as a soft
 </div>
 
 
+<img id="ePortfolio-selection" src="assests/ePortfolio-selection.png" alt="ePortfolio selection and enhacements" title="ePortfolio selection and enhacements" />
+
+## Software design and engineering 
+
+## Algorithms and Data structures 
+
+## Databases 
 
 
 

@@ -206,11 +206,13 @@ In conclusion, building a database using MongoDB offers several advantages over 
 
 Code reviews are important because they help to improve the quality of code, identify potential bugs or vulnerabilities, increase knowledge sharing among team members, and ensure consistency and adherence to coding standards. Additionally, code reviews promote collaboration and constructive feedback among team members, leading to a stronger sense of ownership and accountability for the codebase. Overall, code reviews play a crucial role in building high-quality, reliable software products.
 
-# Software design and engineering Code Review
+# Software design and engineering & Algorithms and Data structures Code Review
 
-# Algorithms and Data structures Code Review
+[Click here to watch the code review video](https://www.dropbox.com/s/g5kkldagwd6frws/%28Software%20design%20and%20engineering%29%26%28Algorithms%20and%20Data%20structures%29CodeReview.mp4?dl=0)
 
 # Databases Code Review
+
+[Click here to watch the code review video](https://www.dropbox.com/s/eo05k2kdjxkub4n/database.mp4?dl=0) 
 
 As a software engineer, it is important to take into consideration the course outcomes when designing and developing computing solutions. Strategies for building collaborative environments and designing professional-quality communications can enhance the effectiveness of organizational decision-making in the field of computer science. 
 

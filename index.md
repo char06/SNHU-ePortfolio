@@ -85,6 +85,12 @@ Overall, the artifact offers a great opportunity for me to showcase my abilities
 
 ## Enhancements 
 
+<div style="text-align: center;">
+	<a href="https://github.com/char06/EventApp.git" title="Artifact: EventApp">
+		<img src="https://img.shields.io/badge/Artifact-EventApp-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: EventApp" />
+	</a>
+</div>
+
 Software design is a critical aspect of the Software Development Life Cycle (SDLC) that involves converting user requirements into a format that can be easily implemented using a programming language. The software design phase is the first step in the SDLC that shifts the focus from the problem domain to the solution domain. As a software engineer, my objective is to construct a web application using Javascript, HTML, and CSS, with the help of the open-source, cross-platform runtime environment Node.js. In this report, I present a list of enhancements to improve the software design of the web application based on the wireframe that I created.
 
 <div style="text-align: center;">
@@ -125,6 +131,12 @@ As part of my final project, I decided to work with an Android Studio and Java-b
 To demonstrate my full-stack engineering skills, I have chosen to rebuild this application entirely using Javascript, a different programming language, for my ePortfolio. This project will showcase my proficiency in various Javascript data structures, such as arrays, objects, stacks, and queues. These data structures are important as they facilitate data retrieval and allow for efficient changes to be made to the data.
 
 ## Enhancements 
+
+<div style="text-align: center;">
+	<a href="https://github.com/char06/EventApp.git" title="Artifact: EventApp">
+		<img src="https://img.shields.io/badge/Artifact-EventApp-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: EventApp" />
+	</a>
+</div>
 
 - Implement more advanced data structures like linked lists and trees to optimize data storage and retrieval.
 - Utilize object-oriented programming principles to enhance code organization and maintainability.
@@ -173,6 +185,12 @@ I am including this project in my portfolio to showcase my expertise in Python p
 
 
 ## Enhancements 
+
+<div style="text-align: center;">
+	<a href="https://github.com/char06/Grazioso.git" title="Artifact: Grazioso">
+		<img src="https://img.shields.io/badge/Artifact-Grazioso-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: Grazioso" />
+	</a>
+</div>
 
 - Improve the user interface: The current app uses Plotly and Dash to create a dashboard. The UI could be improved by fixing any issues with the existing dashboard or building a new one using a different framework. Additionally, the app could benefit from additional features such as data visualization tools, search functionality, and filters.
 

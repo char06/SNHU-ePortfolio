@@ -28,7 +28,9 @@ When I thought back on my decision to pursue a career in software development, I
 
 [Journal: Capstone Reflection](CS499/ADDPaper.pdf "Journal: Capstone Reflection")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla, nisi nec luctus suscipit, justo sem sodales erat, id sodales risus leo et dui. Cras elementum fermentum porttitor. Curabitur lobortis condimentum lectus et placerat. Mauris et neque sollicitudin, ornare massa vitae, sodales nunc. Nullam nec tincidunt diam. Ut lobortis facilisis ex ac luctus. Cras accumsan dui quis massa efficitur, at imperdiet tellus tempus. Sed in arcu sed risus gravida vestibulum eu ut nulla.
+As I approach the culmination of my computer science degree, I can't help but reflect on the incredible journey of the past few years. The program has not only equipped me with a robust understanding of programming languages, algorithms, and software development but has also fostered a mindset of continuous learning and problem-solving.
+
+One of the most significant takeaways from my computer science journey is the ability to approach complex challenges systematically. From tackling intricate coding assignments to collaborating on team projects, I've honed my skills in breaking down problems into manageable components and devising efficient solution.
 
 ### Eportfolio Selection and Refinement Plan
 
